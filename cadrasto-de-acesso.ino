@@ -1,0 +1,8 @@
+void setup_cartao(){
+NumeroCartao = 
+"80007B18B8 = EVERTON YAN DE JESUS SOUZA\n" 
+"800079DCAD = GILDASIO\n" 
+"05007958E6 = MANUTENÇÃO\n" 
+"030042D965 = MANUTENÇÃO\n"
+"0A0047EB09 = teste \n";
+}
